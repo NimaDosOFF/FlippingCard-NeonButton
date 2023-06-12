@@ -26,7 +26,9 @@ https://nimadosoff.github.io/FlippingCard-NeonButton/
 
 ## Ход работы
   
- 
+ https://www.youtube.com/watch?v=Kdal-3AfeRc
+  
+  https://www.youtube.com/watch?v=__rxApMI_Us&list=PL3LQJkGQtzc56HquxrkwPdQt9Q1wHm21P&index=17
 
 ## Посетить сайт
   
