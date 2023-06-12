@@ -2,7 +2,8 @@
 https://nimadosoff.github.io/FlippingCard-NeonButton/
 # Создание анимаций карточки и кнопки с помошью html и css
 <p align='center'>
-<img src='https://kuyhaa.cc/wp-content/uploads/2022/10/Nicepage-Crack-4.19.3-Keygen-Terbaru-Gratis-Unduh.png'>
+  
+![Desktop 2023 06 12 - 22 38 19 04](https://github.com/NimaDosOFF/FlippingCard-NeonButton/assets/133951460/7c2379a5-6754-4636-9351-d5709e1637d6)
   
 
 ## Языки программирования
