@@ -3,7 +3,8 @@ https://nimadosoff.github.io/FlippingCard-NeonButton/
 # Создание анимаций карточки и кнопки с помошью html и css
 <p align='center'>
   
-![Desktop 2023 06 12 - 22 38 19 04](https://github.com/NimaDosOFF/FlippingCard-NeonButton/assets/133951460/7c2379a5-6754-4636-9351-d5709e1637d6)
+![ezgif-4-0fbcf6ba5c](https://github.com/NimaDosOFF/FlippingCard-NeonButton/assets/133951460/41732bbc-50a2-4e82-98ca-ca5f939badc1)
+
   
 
 ## Языки программирования
